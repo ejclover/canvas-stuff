@@ -7,3 +7,6 @@ canvas{
 body{
     margin : 0;
 }
+#counter{
+    text-align: center
+}
